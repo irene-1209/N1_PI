@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Datos_originales/credits.csv filter=lfs diff=lfs merge=lfs -text
+ETL-EDA/data.csv filter=lfs diff=lfs merge=lfs -text
+Datos_originales/credits.zip filter=lfs diff=lfs merge=lfs -text
+ETL-EDA/data.zip filter=lfs diff=lfs merge=lfs -text
